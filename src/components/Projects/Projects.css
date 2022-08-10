@@ -1,4 +1,4 @@
-.project-card-container{
+.project-cards-container{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -57,8 +57,8 @@
     color: #7d7987;
 }
 
-@media only screen and(max-width:640px){
-    .project-card-container{
+@media only screen and (max-width:640px){
+    .project-cards-container{
         padding: 20px;
     }
     .project-card{

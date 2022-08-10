@@ -11,7 +11,7 @@ const Projects = () => {
             heading="My Projects."
             details="Here are some few cool things I've worked on, do check them out!"/>
 
-            <div className="project-card-container">
+            <div className="project-cards-container">
                 {
                     projectsData.map(({ 
                         projectName,
@@ -20,6 +20,7 @@ const Projects = () => {
                         githubUrl,
                         projectUrl}) =>{
                         return <ProjectCard
+                        key={projectName}
                         projectName={projectName}
                         projectDescription={projectDescription}
                         imageUrl={imageUrl}

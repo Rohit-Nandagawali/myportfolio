@@ -21,7 +21,7 @@ const About = () => {
 
                     {/* sub section 1 */}
                     <h3 className="about-sub-head">Artist</h3>
-                    <p className="about-details">I like to drawing since my childhood, check out my {' '}
+                    <p className="about-details">I like drawing since my childhood, check out my {' '}
                     <a className="about-link-element" href="https://www.instagram.com/the_bathr00m_singer_/"> Arts</a></p>
 
                     {/* sub section 1 */}
