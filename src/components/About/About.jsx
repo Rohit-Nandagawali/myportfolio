@@ -9,7 +9,7 @@ const About = () => {
         <div className="section-container">
             <Header
             heading="About Me."
-            details="The Programmer | Student | Artist | Co-founder and Managing director of Extecy.in | Exploring life"/>
+            details="The Programmer | Student | Artist | Exploring life"/>
 
 
             <div className="about-main">
