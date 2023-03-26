@@ -56,9 +56,9 @@ const Contact = () => {
                 <a href="https://www.instagram.com/the_bathr00m_singer_/">
                     <img src={instagram} alt="instagram" />
                 </a>
-                <a href="https://www.extecy.in">
-                    <img src={web} alt="web" />
-                </a>
+//                 <a href="https://www.extecy.in">
+//                     <img src={web} alt="web" />
+//                 </a>
             </div>
            
            
